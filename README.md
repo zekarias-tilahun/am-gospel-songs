@@ -1,2 +1,2 @@
-# am-gospel-songs
-Ethiopian gospel singers lyrics dataset
+# Ethiopian gospel singers lyrics dataset
+
